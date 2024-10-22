@@ -12,9 +12,9 @@ This is a simple command-line implementation of the classic Tic Tac Toe game bui
 
 ## How to Run the Game
 
-1. **Make sure you have Python installed** (Python 3.x is recommended). You can download it from [python.org](https://www.python.org/downloads/).
+1. **Make sure you have Python installed** (Python 3.x is recommended).
 
-2. **Clone the repository** or copy the code into a local Python file (e.g., `tic_tac_toe.py`):
+2. **Clone the repository**:
    git clone https://github.com/yourusername/tic-tac-toe-game.git
    
 3. **Navigate to the project directory**:
